@@ -2,11 +2,9 @@
 
 A lot of the work here was done by Claude Code, including creation of the documents.  I may stick my fingers in from time to time, you can tell as that will be the stuff that's confusing or wrong.
 
-This is also very much a work in progress but easier to leave it public than try and sort out access.
-
 The apps and the library itself are meant to be examples, not production ready code.  It's unsupported as-is code. If you find a bug and figure out how to fix it let Clockworks know.  For now we're pretty clueless about how we might maintain this so that others can contribute to it.  
 
-Someday Analog Devices may release software for the AD2437 and the need for this goes away.
+This software is not being maintained by Clockworks.  For the new Clockworks developed A2B stack see  https://github.com/Clockworks-Signal-Processing/Clockworks_A2B
 
 Written for Version 0.1.  26-Sep-2026.
 
